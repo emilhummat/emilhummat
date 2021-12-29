@@ -1,5 +1,7 @@
 ### Hi there, I'm Emil 👋
 
+## I'm a Husband, Father of one human baby and two fur babies, QA Tester and Java Enthusiast!!
+
 
 - 🔭 I work as a full-time QA Tester
 - 🌱 I’m currently learning verything 🤣
