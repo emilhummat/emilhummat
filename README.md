@@ -9,8 +9,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="emilhummat | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="emilhummatoff | hackerrank" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/1be629bf6e3d5ca588f0b8697b27471644f6408c/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="emilhummat | linkedin" width="36px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
+[<img align="left" alt="emilhummatoff | hackerrank" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png"/>][hackerrank]
 
 <br />
 
