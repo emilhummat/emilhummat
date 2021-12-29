@@ -1,8 +1,5 @@
 ### Hi there, I'm Emil 👋
 
-<!--
-**emilhummat/emilhummat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I work as a full-time QA Tester
 - 🌱 I’m currently learning verything 🤣
